@@ -5,7 +5,7 @@ void main()
   int i;
   do
   {
-    printf("What is your Name? annopFdfs ");
+    printf("What is your Name? JOHNEYY DEBT ");
     scanf("%s", Name);
     do
     {
